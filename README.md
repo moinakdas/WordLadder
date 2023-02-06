@@ -28,4 +28,4 @@ If you would like to contribute to the program, please fork the repository and m
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
+This project is licensed under the MIT License.
