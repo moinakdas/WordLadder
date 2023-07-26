@@ -18,10 +18,6 @@ Clone the repository to your local machine using the following command:
 git clone https://github.com/Sadkoi/word-ladder.git
 ```
 
-## Built With
-
-* [Python 3](https://www.python.org/downloads/) - The programming language used
-
 ## Contributing
 
 If you would like to contribute to the program, please fork the repository and make a pull request with your changes.
